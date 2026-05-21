@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ritesh%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ritesh%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CDon%E2%80%99t%20wait%20to%20feel%20ready%20%E2%80%94%20start%20building%20anyway.%E2%80%9D" alt="Typing introduction" />
 </p>
