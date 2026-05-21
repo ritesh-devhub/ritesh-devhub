@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ritesh-devhub">
-    <img src="https://komarev.com/ghpvc/?username=ritesh-devhub&label=Profile%20views&color=00FFFF&style=flat-square" alt="ritesh-devhub's profile views" />
   </a>
 </p>
 
