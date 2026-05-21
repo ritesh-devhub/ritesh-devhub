@@ -91,6 +91,8 @@
 
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://github.com/ritesh-devhub">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ritesh-devhub&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
