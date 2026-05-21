@@ -1,79 +1,18 @@
-<h1 align="center">Hey there 👋, I'm Ritesh Kumar</h1>
-   
-<p align="center">  
-  🧠 AI/ML Enthusiast & Python Developer <br/>   
-  🎓 BCA Graduate | 🔄 Building in Public | 🌱 Learning Mindset    
-</p>   
- 
-<p align="center">
-  <a href="https://github.com/rahool-oo7"><img src="https://img.shields.io/github/followers/rahool-oo7?label=Followers&style=social" /></a>
-  <a href="https://linkedin.com/in/ritesh-ai"><img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:riteshwork.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-riteshwork.work@gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on  <br>Building AI/ML projects focused on Generative AI, multimodal systems, and real-world automation workflows.<br><br>👯 I’m looking to collaborate on  <br>Open-source AI/ML projects, data science applications, and innovative GenAI ideas.<br><br>🤝 I’m looking for help with  <br>Scaling AI applications, advanced ML engineering, and production-grade deployment practices.<br><br>🌱 I’m currently learning  <br>Deep Learning, RAG pipelines, Agentic AI systems, MLOps, and advanced data science workflows.<br><br>💬 Ask me about  <br>Python, Machine Learning, Data Analysis, Generative AI, FastAPI, Streamlit, and AI project building.<br><br>⚡ Fun fact  <br>I love turning complex AI ideas into real working products — not just notebooks and demos.
 
----
 
-## 🚀 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshwork.work@gmail.com) 
 
-- 🎓 BCA graduate from **Presidency University, Bangalore**
-- 🐍 Currently learning **Python for Data Science and AI**
-- 🤖 Built my first **AI Voice Assistant** [(Nova)](https://github.com/rahool-oo7/nova-voice-assistant)
-- 🧠 Documenting everything in [My Python Journey](https://github.com/rahool-oo7/my-python-journey)
-- 🎯 **Goal**: Become a successful AI/ML Engineer and contribute to real-world problems
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ritesh-devhub&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ritesh-devhub&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ritesh-devhub&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-## 📚 What I'm Currently Focusing On
-
-- ✅ Python for AI/ML & Data Science
-- ✅ Statistics for Data Understanding
-- ✅ Mini projects to strengthen concepts
-- ✅ ML fundamentals & real-world datasets
-- ✅ Using Git, GitHub, and Jupyter effectively
-- ✅ Sharing progress via [#BuildInPublic](https://www.linkedin.com/feed/hashtag/buildinpublic/)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</div>
-
----
-
-## 🧩 Projects I Have Built So far
-
-| Project | Description |
-|--------|-------------|
-| 🔊 [Nova – Voice Assistant](https://github.com/rahool-oo7/nova-voice-assistant) | Basic AI assistant using voice recognition and command execution |
-| 📘 [My Python Journey](https://github.com/rahool-oo7/my-python-journey) | Notes, projects, and daily progress in Python |
-| 🔐 [Password Generator](https://github.com/rahool-oo7/password-gen-gui) | Python app to generate strong passwords with a user-friendly GUI |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahool-oo7&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=rahool-oo7&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 🌍 **Location**: Bangalore, India
-- 📧 **Email**: riteshwork.work@gmail.com
-- 💼 **LinkedIn**: [ritesh-ai](https://linkedin.com/in/ritesh-ai)
-- 💻 **GitHub**: [rahool-oo7](https://github.com/rahool-oo7)
-
----
-
-> 🛠️ Always open to collaboration, feedback, and opportunities to learn together!  
-> Follow along as I build in public and grow toward becoming an AI/ML Engineer 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
