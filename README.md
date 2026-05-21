@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ritesh%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ritesh%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CDon%E2%80%99t%20wait%20to%20feel%20ready%20%E2%80%94%20start%20building%20anyway.%E2%80%9D" alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ritesh-devhub">
@@ -25,9 +30,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/ritesh-devhub">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritesh-devhub&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="ritesh-devhub's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritesh-devhub&cache_seconds=7200&layout=compact&theme=monokai&hide_border=true" alt="ritesh-devhub's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ritesh-devhub&theme=monokai&hide_border=true&cache_seconds=86400" alt="ritesh-devhub's GitHub Streak" width="49%" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ritesh-devhub&theme=monokai&hide_border=true&cache_seconds=86400" alt="ritesh-devhub's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ritesh-devhub&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ritesh Kumar's GitHub Trophies" />
